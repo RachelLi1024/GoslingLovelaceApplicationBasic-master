@@ -1,3 +1,3 @@
 #GoslingLovelace Basic Application
 
-![Demo](display/demo.gif)
+![img](https://github.com/RachelLi1024/GoslingLovelaceApplicationBasic-master/blob/master/GIFdemo.gif)
